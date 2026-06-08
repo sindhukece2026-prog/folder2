@@ -1,1 +1,1 @@
-file 2 in dev1
+file 2 by  dev1 is modified by dev2
